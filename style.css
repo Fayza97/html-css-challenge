@@ -1,0 +1,204 @@
+
+* {
+    box-sizing:border-box;
+    padding:2px;
+    margin: 2px;
+    }
+    
+     body,html{
+         background : white;
+         font-family: 'Quando', serif;
+         width: 100%;
+         text-transform: capitalize;
+         overflow-x: hidden;
+        } 
+        img {
+            width: 100%;
+        }
+
+.socail{
+    background: black;
+}
+.icons{
+    color: white;
+}
+.r8{
+    float: right;
+    margin-right: 20px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:white;
+    text-decoration: none;
+  }
+  
+  .topnav h1 {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .topnav a:hover {
+    color:greenyellow;
+  }
+  
+  .topnav a.active {
+    color: green;
+  }
+  
+  .topnav-right  a{
+    float: right;
+    margin-right: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  /* here is the css part of main */
+  #main{
+    background: #4ba367;
+    width: 100%;
+    height: 120vh;
+    margin-top: 20px;
+  }
+  .imgg{
+     width: 40%;
+     height: 15%;
+     margin-left: 400px;
+  }
+  .img {
+      margin-top: 30px;
+  }
+  .h1build{
+      font-size: 40px;
+    
+  }
+  #about1  h1{
+    text-align: center;
+    margin-top: 25px;
+  }
+  .css {
+      text-align: center;
+      margin-left: 20%;
+      margin-right: 20%;
+  }
+  .input-dash{
+      margin-top: 3%;
+      margin-left: 520px;
+  }
+  .btn{
+     background-color: #4ba367;
+  }
+  .free {
+      color: white;
+      font-size: 20px;
+      margin-left: -30px;
+  }
+  
+
+  /* here is the css partsignup */
+  #commuinty-signup {
+    background: rgb(247, 235, 235);
+    width: 100%;
+    height: 80vh;
+  }
+  .h2c{
+      font-size: 40px;
+  }
+  .sgn {
+      font-size: 25px;
+  }
+  .sgn,.h2c,.pp{
+      text-align: center;
+  }
+  .chevron1{
+      color: green;
+      margin-left: 200px;
+  }
+  .chevron2{
+    color: green;
+    margin-left: 100px;
+}
+  .sign{
+      font-size: 60px;
+  }
+  .aboutc {
+      padding: 6%;
+      background: white;
+      margin-top: 2%;
+      margin-left: 22%;
+      margin-right: 22%;
+     border: 2px solid ghostwhite;
+  }
+  /* here serviceds */
+  #service-p{
+      width: 100%;
+      height: 100vh;
+      background: white;
+  }
+  #skill {
+	text-align: center;
+	color: black;
+	font-size: 40px;
+}
+  .container-services {
+    width: 70%;
+    margin: 10px auto;
+    position: relative;
+    text-align:center;
+  }
+  
+  .block {
+    background: white;
+    height: 420px;
+    width: 280px;
+    /* flex-direction: column; */
+    display: inline-block;
+    margin: 10px;
+     border: 2px solid rgba(228, 219, 219, 0.412);
+  }
+  .in{
+      margin-left: 35%;
+     background-color: #008080;
+     margin-right: 35%;
+  }
+  #data-in-platform{
+      background: #eeeeee;
+      width: 100%;
+      height: 145vh;
+      
+  }
+  .container-data {
+    width: 100%;
+    margin: 10px auto;
+    position: relative;
+    text-align:center;
+  }
+  .blk {
+      background: #4ba367;
+  }
+  .footer {
+      height: 40vh;
+  }
+  .blockk {
+    background: white;
+    height: 200px;
+    width: 280px;
+    /* flex-direction: column; */
+    display: inline-block;
+    margin: 10px;
+     border: none;
+  }
+  .container-footer {
+    width: 100%;
+    margin: 10px 5%;
+    position: relative;
+    
+  }
+  ul li{
+    text-decoration: none;
+  }
